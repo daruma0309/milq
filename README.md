@@ -1,5 +1,10 @@
 # MILQ
 
+## My usage
+scripts/bash/install-opencv.sh
+
+## Original
+
 This is a compilation of my personal code I consider useful:
 
 | Folder    | Description                                                                                        |
